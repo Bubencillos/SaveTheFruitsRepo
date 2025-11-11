@@ -51,5 +51,7 @@ Developed and maintained exclusively by the **Bubencillos** Team.
 
 * **GitHub Owner:** [@Bubencillos](https://github.com/Bubencillos)
 * **Discord:** [@devbuben](https://discord.com/users/987175599699292220)
+* **Mail:** [bubencillos@gmail.com](mailto:bubencillos@gmail.com)
+
 
 
