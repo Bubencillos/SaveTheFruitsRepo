@@ -4,7 +4,7 @@
 
 This repository is the **exclusive, internal control center** for managing and deploying game data for **Save The Fruits**.
 
-We use this system to send updated prices, fruit statistics, and level configurations directly to our live servers without requiring any restarts (Zero-Downtime Patching).
+We use this system to send updated prices, weapons statistics, and level configurations directly to our live servers without requiring any restarts (Zero-Downtime Patching).
 
 **DO NOT** make this repository public. **All contents are proprietary to the Bubencillos Team.**
 
@@ -51,4 +51,5 @@ Developed and maintained exclusively by the **Bubencillos** Team.
 
 * **GitHub Owner:** [@Bubencillos](https://github.com/Bubencillos)
 * **Discord:** [@devbuben](https://discord.com/users/987175599699292220)
+
 
